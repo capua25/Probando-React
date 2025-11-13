@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laura Méndez",
+    "edad": 29,
+    "email": "laura.mendez@example.com",
+    "telefono": "+598 94 512 879",
+    "direccion": "Calle Rivera 1256, Montevideo, Uruguay",
+    "ocupacion": "Diseñadora Gráfica",
+    "fecha_registro": "2024-07-15"
+  },
+  {
+    "id": 2,
+    "nombre": "Joaquín Fernández",
+    "edad": 34,
+    "email": "joaquin.fernandez@example.com",
+    "telefono": "+598 93 244 678",
+    "direccion": "Av. Italia 4012, Montevideo, Uruguay",
+    "ocupacion": "Ingeniero de Software",
+    "fecha_registro": "2023-12-02"
+  },
+  {
+    "id": 3,
+    "nombre": "Camila Duarte",
+    "edad": 22,
+    "email": "camila.duarte@example.com",
+    "telefono": "+598 98 765 321",
+    "direccion": "José Batlle y Ordóñez 712, Salto, Uruguay",
+    "ocupacion": "Estudiante de Medicina",
+    "fecha_registro": "2025-01-08"
+  },
+  {
+    "id": 4,
+    "nombre": "Martín Cabrera",
+    "edad": 41,
+    "email": "martin.cabrera@example.com",
+    "telefono": "+598 92 111 504",
+    "direccion": "Rincón 215, Colonia, Uruguay",
+    "ocupacion": "Contador Público",
+    "fecha_registro": "2024-03-19"
+  },
+  {
+    "id": 5,
+    "nombre": "Sofía Morales",
+    "edad": 27,
+    "email": "sofia.morales@example.com",
+    "telefono": "+598 95 331 900",
+    "direccion": "Florida 1567, Canelones, Uruguay",
+    "ocupacion": "Analista de Marketing",
+    "fecha_registro": "2024-10-30"
+  },
+  {
+    "id": 6,
+    "nombre": "Diego Silva",
+    "edad": 38,
+    "email": "diego.silva@example.com",
+    "telefono": "+598 91 503 211",
+    "direccion": "Paysandú 982, Maldonado, Uruguay",
+    "ocupacion": "Gerente de Ventas",
+    "fecha_registro": "2023-09-11"
+  },
+  {
+    "id": 7,
+    "nombre": "Lucía Rodríguez",
+    "edad": 31,
+    "email": "lucia.rodriguez@example.com",
+    "telefono": "+598 96 812 444",
+    "direccion": "Treinta y Tres 332, Rocha, Uruguay",
+    "ocupacion": "Arquitecta",
+    "fecha_registro": "2025-04-22"
+  },
+  {
+    "id": 8,
+    "nombre": "Agustín Pereira",
+    "edad": 25,
+    "email": "agustin.pereira@example.com",
+    "telefono": "+598 97 122 008",
+    "direccion": "Sarandí 760, Tacuarembó, Uruguay",
+    "ocupacion": "Programador Fullstack",
+    "fecha_registro": "2024-08-05"
+  },
+  {
+    "id": 9,
+    "nombre": "Valentina Torres",
+    "edad": 36,
+    "email": "valentina.torres@example.com",
+    "telefono": "+598 94 998 452",
+    "direccion": "18 de Julio 3210, Montevideo, Uruguay",
+    "ocupacion": "Doctora",
+    "fecha_registro": "2025-02-14"
+  },
+  {
+    "id": 10,
+    "nombre": "Nicolás Rojas",
+    "edad": 45,
+    "email": "nicolas.rojas@example.com",
+    "telefono": "+598 93 777 209",
+    "direccion": "Camino Maldonado 5560, Montevideo, Uruguay",
+    "ocupacion": "Técnico en Electrónica",
+    "fecha_registro": "2023-11-28"
+  }
+]
